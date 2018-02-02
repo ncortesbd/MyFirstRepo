@@ -1,3 +1,2 @@
 print('consumer')
-
-print('C2')
+print('consumer2')
